@@ -35,4 +35,4 @@ The dashboard enables business stakeholders to monitor representative productivi
 - Interactive Visualizations
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Screenshot 2026-05-01 152038.png)
